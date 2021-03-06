@@ -1,1 +1,4 @@
 setting.config
+a.b
+*.b
+/*/test3.txt
